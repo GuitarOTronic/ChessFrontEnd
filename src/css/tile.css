@@ -1,0 +1,16 @@
+.tile{
+  text-align: center;
+  justify-content: center;
+  width: 80px;
+  height: 80px;
+  color:green;
+  border: 1px solid black;
+  float:left;
+}
+
+.whiteTile{
+  background: #fff;
+}
+.blackTile{
+  background: black;
+}
